@@ -12,7 +12,7 @@ This code package allows you to:
 * Extract the Category-Consistent-Features (CCFs) from your dataset.
 * Visualize the CCFs of specified categories, and compute CCF-distances between images of your categories.
 
-Coded, implemented, and tested on Windows 7, using Matlab R2016a.
+Coded, implemented, and tested on Windows 7, using Matlab R2016a by Chen-Ping Yu.
 
 Contact: cxy7452@gmail.com
 
