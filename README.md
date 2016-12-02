@@ -1,9 +1,8 @@
 # BoW-CCF
 **Code for the paper "Searching for category-consistent features: A computational approach to understanding visual category representation"**
 
-Paper: http://www.chenpingyu.org/docs/Yu_ccf_2016.pdf
+Paper: https://www.researchgate.net/publication/301892849_Searching_for_Category-Consistent_Features_A_Computational_Approach_to_Understanding_Visual_Category_Representation
 
-Contact: cxy7452@gmail.com
 
 <br/>
 
@@ -13,7 +12,9 @@ This code package allows you to:
 * Extract the Category-Consistent-Features (CCFs) from your dataset.
 * Visualize the CCFs of specified categories, and compute CCF-distances between images of your categories.
 
-Implemented and tested on Windows 7, using Matlab R2016a. 
+Coded, implemented, and tested on Windows 7, using Matlab R2016a.
+
+Contact: cxy7452@gmail.com
 
 <br />
 
@@ -61,4 +62,4 @@ For both functions, the output value is between 0 and 1, where 0 means exactly t
 
 ## Contact
 
-If the code has problems or if you have any questions about any part of the code, feel free to contact me at cxy7452@gmail.com, thanks!
+If the code has problems or if you have any questions about any part of the code, feel free to contact Chen-Ping at cxy7452@gmail.com, thanks!
